@@ -1,0 +1,56 @@
+# ninja log v5
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/_phony_	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_value.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_engine.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/libflutter_linux_gtk.so	d2ca27db30e7827f
+28586	30897	1666789245718781479	CMakeFiles/customclipper.dir/flutter/generated_plugin_registrant.cc.o	5537e08d045fead
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	d2ca27db30e7827f
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_view.h	d2ca27db30e7827f
+25	28584	0	flutter/_phony_	d2ca27db30e7827f
+65604	71691	1666221967934205696	CMakeFiles/customclipper.dir/main.cc.o	d05bf10581f6832c
+28585	31053	1666789245870837284	CMakeFiles/customclipper.dir/my_application.cc.o	4e59e9b5576f9d05
+25	28584	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	d2ca27db30e7827f
+31053	31406	1666789246238967026	intermediates_do_not_run/customclipper	292610e81eb3a260
+31406	31760	0	CMakeFiles/install.util	f2e7790d0c8a60dc
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/libflutter_linux_gtk.so	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_engine.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_value.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/fl_view.h	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	d2ca27db30e7827f
+9	28666	0	flutter/_phony_	d2ca27db30e7827f
+9	28666	0	/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/_phony_	d2ca27db30e7827f
+28675	30308	1666867677122038076	CMakeFiles/customclipper.dir/flutter/generated_plugin_registrant.cc.o	5537e08d045fead
+28669	30510	1666867677318049506	CMakeFiles/customclipper.dir/my_application.cc.o	4e59e9b5576f9d05
+30510	30891	1666867677710072369	intermediates_do_not_run/customclipper	292610e81eb3a260
+30891	31253	0	CMakeFiles/install.util	f2e7790d0c8a60dc

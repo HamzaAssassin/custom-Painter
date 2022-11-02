@@ -1,0 +1,4 @@
+#Tue Oct 18 06:16:50 PKT 2022
+base.0=/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

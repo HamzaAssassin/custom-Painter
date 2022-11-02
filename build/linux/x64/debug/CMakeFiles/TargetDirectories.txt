@@ -1,0 +1,14 @@
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/CMakeFiles/customclipper.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/CMakeFiles/install.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir

@@ -1,0 +1,12 @@
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/customclipper
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/first.jpeg
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/hamza/FLutter Practice Projects/practice/test_fun/test/customclipper/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
